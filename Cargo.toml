@@ -1,6 +1,6 @@
 [package]
 name = "cat"
 version = "0.1.0"
-authors = ["渋江 一晃 <shibue_kazuaki_xa@cyberagent.co.jp>"]
+authors = ["suzumi <ganimata39@gmail.com>"]
 
 [dependencies]
